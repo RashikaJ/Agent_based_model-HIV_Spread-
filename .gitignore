@@ -1,0 +1,21 @@
+# Ignore Mac system files
+.DS_Store
+
+# NetLogo temporary or backup files
+*.bak
+*.tmp
+
+# Python or Jupyter related (in case you ever expand this project)
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Logs or environment files
+*.log
+*.env
+
+# Ignore hidden files or folders by pattern
+.*/  
