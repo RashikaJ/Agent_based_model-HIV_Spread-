@@ -49,10 +49,10 @@ The simulation models individuals as autonomous agents and studies their interac
 
 ## 📸 Screenshots
 
-![Simulation Run](simulation_example.jpg)  
+![Simulation Run](Simulation_example.jpg)  
 *Example: A simulation run showing agent colors based on infection status*
 
-![Agent Status Legend](agent_legend.jpg)  
+![Agent Status Legend](Agent_legend.jpg)  
 *Legend: Green – Negative, Blue – On PrEP, Yellow – Infected Unaware, Red – HIV Positive*
 
 ---
