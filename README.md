@@ -4,6 +4,21 @@ This project simulates the spread of HIV/AIDS using an **Agent-Based Model (ABM)
 
 ---
 
+## 📚 Table of Contents
+
+- [Objective](#-objective)
+- [Tools & Technologies](#-tools--technologies)
+- [Key Variables Modeled](#-key-variables-modeled)
+- [Simulation Interface](#-simulation-interface)
+- [Screenshots](#-screenshots)
+- [Project Report / Slides](#-project-report--slides)
+- [Limitations & Future Scope](#-limitations--future-scope)
+- [Author](#-author)
+- [Key Takeaways](#-key-takeaways)
+- [Contributing](#-contributing)
+
+---
+
 ## 🎯 Objective
 
 To understand and visualize how various behavioral and medical factors — such as **condom usage**, **test frequency**, **coupling tendency**, **commitment period**, and **PrEP medication** — influence the spread of HIV. 
